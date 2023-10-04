@@ -5,7 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Plan de mercadeo
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_1_1 1.1.	Elementos del plan de mercadeo
+
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_1_2 1.2.	Áreas del plan de mercadeo
+
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_1_3 1.3.	Variables del estudio de mercadeo
+
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_1_4 1.4.	Entorno organizacional
       
 </template>
 

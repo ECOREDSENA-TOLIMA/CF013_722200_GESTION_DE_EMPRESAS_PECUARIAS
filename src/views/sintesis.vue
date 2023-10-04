@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 En el componente formativo relacionado con el #[b Plan de mercadeo en la empresa pecuaria], se resaltan temas como el plan de mercadeo con sus elementos, áreas y variables de estudio del mercado, en el cual se destacan el perfil del cliente, comportamiento del consumidor y segmentación del mercado, también es importante el entorno organizacional, incluyendo el diagnóstico interno y análisis del sector. De la misma forma, se destaca el tema de la estructura del plan de mercadeo, con los objetivos, estrategias, tácticas y plan de acción, igual el cronograma y presupuesto, evaluación y control de la empresa pecuaria con los indicadores de gestión y el informe de resultado.
 
     .row.justify-content-center
       .col-lg-10.mb-5
