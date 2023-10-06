@@ -488,7 +488,7 @@ export default {
   components: {},
   data: () => ({
     // variables de vue
-    link_1_1: 'https://www.youtube.com/embed/6mCapY1j6jY?si=q0vZHkfi4kWk7E26',
+    link_1_1: 'https://www.youtube.com/embed/6mCapY1j6jY?si=LJlsyCLH6mfrY2V_',
   }),
   mounted() {
     this.$nextTick(() => {
