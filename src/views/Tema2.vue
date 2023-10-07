@@ -369,7 +369,7 @@ export default {
       {
         titulo: 'Indicadores de <i>marketing</i> digital',
         texto:
-          'La tendencia actual es realizar inversión en estrategias de marketing digital, con el fin de tener presencia en la web y poder atraer nuevos clientes por este canal de comunicación. Entre los indicadores más utilizados de esta categoría se encuentran: porcentaje de clientes influenciados por el <i>marketing</i> y el  alcance de las redes sociales.',
+          'La tendencia actual es realizar inversión en estrategias de <i>marketing</i> digital, con el fin de tener presencia en la <i>web</i> y poder atraer nuevos clientes por este canal de comunicación. Entre los indicadores más utilizados de esta categoría se encuentran: porcentaje de clientes influenciados por el <i>marketing</i> y el  alcance de las redes sociales.',
         text: '',
         imagen: require('@/assets/curso/temas/tema2/13.jpg'),
       },
