@@ -104,7 +104,7 @@
             .tarjeta(style="background-color:#DBF9BD")
               .text.p-4
                 h2.text-center Objetivo
-                p Aumentar las ventas de la empresa la vaca lechera en un 5% en la región del Tolima para el tercer trimestre del año 2021.
+                p Aumentar las ventas de la empresa la vaca lechera en un 5 % en la región del Tolima para el tercer trimestre del año 2021.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
@@ -122,7 +122,7 @@
                 h2.text-center Táctica
                 p Analizar el público objetivo en las redes sociales.
                 p Crear contenido creativo y de alto valor para el público objetivo.
-                .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+                
     
     .row.justify-content-center
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -194,7 +194,7 @@
                     td $ 80.000
                     td $ 0
                     td $ 80.000
-                    td 100%
+                    td 100 %
                     td $ 0
                     td $ 0
                     td $ 0
@@ -224,7 +224,7 @@
                     td $ 90.000
                     td $ 0
                     td $ 90.000
-                    td 100%
+                    td 100 %
                     td $ 0
                     td $ 0
                     td $ 0

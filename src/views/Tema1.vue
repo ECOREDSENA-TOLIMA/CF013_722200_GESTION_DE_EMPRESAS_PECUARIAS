@@ -404,37 +404,37 @@
         .py-4.py-md-5(titulo="Entorno demográfico" :icono="require('@/assets/curso/temas/tema1/32.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p Se debe analizar todo lo relacionado con el país o la región donde se desarrolla la actividad económica y se tienen en cuenta para la segmentación del producto o el servicio: edad, sexo, densidad y población total.
+              p.text-center Se debe analizar todo lo relacionado con el país o la región donde se desarrolla la actividad económica y se tienen en cuenta para la segmentación del producto o el servicio: edad, sexo, densidad y población total.
 
         .py-4.py-md-5(titulo="Entorno geográfico" :icono="require('@/assets/curso/temas/tema1/33.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p Se debe hacer un análisis de los recursos disponibles en el país o región, como por ejemplo, recursos naturales, acceso a servicios, calidad de las vías.
+              p.text-center Se debe hacer un análisis de los recursos disponibles en el país o región, como por ejemplo, recursos naturales, acceso a servicios, calidad de las vías.
 
         .py-4.py-md-5(titulo="Entorno económico" :icono="require('@/assets/curso/temas/tema1/34.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p Se debe revisar la legislación vigente, normas aplicables, resoluciones y todos los requisitos necesarios para el funcionamiento de la empresa.
+              p.text-center Se debe revisar la legislación vigente, normas aplicables, resoluciones y todos los requisitos necesarios para el funcionamiento de la empresa.
 
         .py-4.py-md-5(titulo="Entorno legal y político" :icono="require('@/assets/curso/temas/tema1/35.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p Se debe analizar los indicadores más importantes y relevantes del país como la inflación, el PIB (Producto interno bruto) PIB Per cápita (por habitante).
+              p.text-center Se debe analizar los indicadores más importantes y relevantes del país como la inflación, el PIB (Producto interno bruto) PIB Per cápita (por habitante).
 
         .py-4.py-md-5(titulo="Entorno tecnológico" :icono="require('@/assets/curso/temas/tema1/36.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p Se debe estudiar y revisar el acceso a la tecnología, conectividad en las diferentes regiones y posibilidades de innovación.
+              p.text-center Se debe estudiar y revisar el acceso a la tecnología, conectividad en las diferentes regiones y posibilidades de innovación.
 
         .py-4.py-md-5(titulo="Entorno cultural" :icono="require('@/assets/curso/temas/tema1/37.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p El estudio de este entorno debe estar basado en todos los aspectos relacionados, propios del consumidor o de la región a la cual se pretende llegar especialmente la religión, ética y tradiciones propias.
+              p.text-center El estudio de este entorno debe estar basado en todos los aspectos relacionados, propios del consumidor o de la región a la cual se pretende llegar especialmente la religión, ética y tradiciones propias.
 
         .py-4.py-md-5(titulo="Entorno Medioambiental" :icono="require('@/assets/curso/temas/tema1/38.svg')")
           .row
             .col-md-12.mb-4.mb-md-0
-              p Se deben estudiar los aspectos relacionados con la legislación ambiental, manejo de residuos, procesos ambientales y todos los componentes del medio natural donde está ubicada la empresa.
+              p.text-center Se deben estudiar los aspectos relacionados con la legislación ambiental, manejo de residuos, procesos ambientales y todos los componentes del medio natural donde está ubicada la empresa.
       
       .row.justify-content-center
         .col-md-10
