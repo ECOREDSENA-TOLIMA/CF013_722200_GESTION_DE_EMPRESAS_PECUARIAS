@@ -118,7 +118,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF.zip',
+        download: 'downloads/CFA_13_722200.zip',
       },
       {
         icono: 'fas fa-download',
@@ -177,7 +177,7 @@ export default {
         'Acrónimo de Sistema de Investigación de Mercados, pero también de Sistema de Información de Mercados.',
     },
     {
-      termino: 'Variables de mercade',
+      termino: 'Variables de mercadeo',
       significado:
         'Son aquellos elementos que se deben identificar, conocer y analizar para diseñar un plan de mercadeo.',
     },
