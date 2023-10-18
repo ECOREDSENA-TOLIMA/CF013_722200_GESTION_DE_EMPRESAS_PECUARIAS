@@ -20,8 +20,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Las 4 P del marketing que debes conocer
-                  p.text-small Para profundizar el diseño del plan de mercadeo se sugiere revisar el siguiente video denominado:
+                  h3.mb-1 Las 4 P del #[i marketing] que debes conocer
+                  p.text-small Para profundizar el diseño del plan de mercadeo se sugiere revisar el siguiente video:
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="link_1_1" target="_blank")
                     span.text-small(data-aos="fade-left") Link 
@@ -358,11 +358,11 @@
     .row.justify-content-center
       .col 
         .tarjeta.p-4.mb-3(style="background-color:#F9FEF5")(data-aos="flip-up")
-          <li>#[b  Área a evaluar]: aquí debe colocar el área que se va evaluar: mercadeo, producción, talento humano y finanzas.</li>
+          <li>#[b  Área a evaluar]: aquí debe colocar el área que se va a evaluar: mercadeo, producción, talento humano y finanzas.</li>
           br
           <li>#[b  Importancia] en este ítem se debe asignar en porcentajes la importancia de cada una de las áreas, de manera que sumen un 100 %.</li>
           br
-          p Ejemplo: para le empresa Punta de anca que está compuesta por 3 áreas, producción, mercadeo y finanzas. La empresa considera la importancia de las áreas de la siguiente manera: mercadeo 40 %, finanzas 35 % y producción 25 %.
+          p Ejemplo: para la empresa Punta de anca que está compuesta por 3 áreas, producción, mercadeo y finanzas. La empresa considera la importancia de las áreas de la siguiente manera: mercadeo 40 %, finanzas 35 % y producción 25 %.
           br
           .row.justify-content-center.align-items-center 
             .col-md-8.mb-3

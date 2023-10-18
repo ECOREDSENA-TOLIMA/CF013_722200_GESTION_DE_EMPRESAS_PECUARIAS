@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la figura con la síntesis se resaltan temas importantes como el plan de mercadeo, áreas y variables de estudio del mercado; perfil del cliente, comportamiento del consumidor y segmentación del mercado; el entorno organizacional, diagnóstico interno y análisis del sector, estructura del plan de mercadeo, objetivos, estrategias, tácticas y plan de acción; cronograma y presupuesto, evaluación y control de la empresa pecuaria, indicadores de gestión y el informe de resultado.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

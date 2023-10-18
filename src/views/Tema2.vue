@@ -11,8 +11,10 @@
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 Según “Philip Kotler” (2006) “Un plan de marketing es un documento escrito en el que se escogen los objetivos, las estrategias y los planes de acción relativos a los elementos del marketing mix, que facilitarán y posibilitarán el cumplimiento de la estrategia a nivel corporativo, año a año, paso a paso”.
+            h2.mb-0 Un plan de marketing es un documento escrito en el que se escogen los objetivos, las estrategias y los planes de acción relativos a los elementos del marketing mix, que facilitarán y posibilitarán el cumplimiento de la estrategia a nivel corporativo, año a año, paso a paso.
             i.fas.fa-quote-right
+            br
+            h2 Philip Kotler (2006)
         .cajon.p-4.mb-3
           p En este punto como resultado del estudio del mercado ya se ha realizado la segmentación del mercado y se ha definido el público objetivo, esto permite iniciar con el diseño de objetivos y estrategias, y empezar a dar estructura al plan de mercadeo.
       .col-md-5
@@ -95,7 +97,7 @@
     
     p(data-aos="fade-left") En #[i marketing] uno de los temas más importantes es cómo se va a competir en el mercado y para ello se debe diseñar estrategias rentables y sostenibles. El diseño de las estrategias debe ayudar al cumplimiento de los objetivos y, son vistas como el proceso de comunicación hacia los clientes para describir las virtudes y ventajas de los productos o servicios de la organización frente a su competencia.
 
-    p(data-aos="fade-left") Las estrategias responden a la pregunta ¿cómo se va a lograr el cumplimiento del objetivo? y las tácticas ¿cómo se puede ejecutar las estrategias? Cada objetivo deberá tener mínimo una estrategia para poder cumplirlo y cada estrategia deberá tener 2 o más tácticas que permitan implementarlas en la organización, las tácticas son el soporte de los programas de marketing y básicamente son la menara de implementar la estrategia,  como se aprecia a continuación: 
+    p(data-aos="fade-left") Las estrategias responden a la pregunta: ¿cómo se va a lograr el cumplimiento del objetivo? Las tácticas responden a la pregunta: ¿cómo se puede ejecutar las estrategias? Cada objetivo deberá tener, como mínimo, una estrategia para poder cumplirlo. Cada estrategia deberá tener 2 o más tácticas que permitan implementarlas en la organización. Las tácticas son el soporte de los programas de marketing y, básicamente, son la manera de implementar la estrategia, como se aprecia a continuación:
 
     .row.justify-content-center.mb-5.mt-5(data-aos="flip-up")
         .col-md-6.col-lg.mb-5.mb-lg-0
@@ -153,7 +155,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema2/7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/7.svg', alt='En la tabla se observa un ejemplo de cronograma implementación plan de mercadeo empresa Punta de anca, en las columnas con mes 1 a mes 4 con 4 semanas por mes, y en las filas actividad, responsables.')
 
         .row
           .col-md-12.mb-4.mb-md-0
@@ -238,7 +240,7 @@
         
           .col-md-12
             figure.mb-4
-              img(src='@/assets/curso/temas/tema2/8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/8.svg', alt='En la tabla se observa objetivo, estrategía táctica e indicador, plan de acción, responsable.')
             p Esta es la forma de presentar un plan de mercadeo a las diferentes áreas de la organización, si bien el plan es un documento escrito donde se debe evidenciar el alcance, marco teórico, referencias y demás, es un documento que solo debe ser revisado y estar bajo la custodia de la dirección, mientras que las demás áreas y colaboradores deberán conocer las metas de la organización y la mejor manera de hacerlo es esta.
                   
 
@@ -331,15 +333,6 @@
                 img(src='@/assets/curso/temas/tema2/15.jpg', alt='Texto que describa la imagen')
             .col-md-8
               p De esta manera, debe haber una relación de cada una de las estrategias y el porcentaje de cumplimiento o los logros y objetivos alcanzados, contrarrestando en cada una de estas lo planeado versus lo cumplido. Asimismo, se debe relacionar las ventas al finalizar el tiempo de implementación del plan de mercadeo que normalmente es anual, esto debido a que el plan proyectado va dirigido a impactar directamente los ingresos de la empresa a partir de las estrategias, se debe realizar el análisis de los impactos generados tanto positivos como negativos, incluso de las modificaciones que se tuvieron durante la puesta en marcha.
-
-
-
-      
-            
-            
-
-      
-
 </template>
 
 <script>
@@ -357,7 +350,7 @@ export default {
       {
         titulo: 'Indicadores por campaña',
         texto:
-          'Estos indicadores miden el comportamiento del público objetivo respecto a la campaña diseñada por la empresa, por ejemplo, costo por lead o prospecto, el lead es un cliente potencial del cual se ha obtenido el contacto.',
+          'Estos indicadores miden el comportamiento del público objetivo respecto a la campaña diseñada por la empresa, por ejemplo, costo por <i>lead</i> o prospecto, el <i>lead</i> es un cliente potencial del cual se ha obtenido el contacto.',
         imagen: require('@/assets/curso/temas/tema2/11.jpg'),
       },
       {

@@ -144,10 +144,10 @@ export default {
     {
       tema: 'Indicadores de gestión',
       referencia:
-        'Hoyos, E. & Henao, I. (2020). Propuesta del plan de mercadeo para una empresa agroavícola para el periodo 2020.',
+        'Castillo, C. (2019). Plan de mercadeo 2019 para la empresa Distribuidora Avícula La Granja Ubicada en la ciudad de Cali. Universidad Autónoma de Occidente',
       tipo: 'Trabajo de Grado',
       link:
-        'https://es.scribd.com/document/591833070/Propuesta-de-Plan-de-Mercadeo#',
+        'https://red.uao.edu.co/bitstream/handle/10614/10962/T08510.pdf?sequence=5&isAllowed=',
     },
   ],
   glosario: [
@@ -201,13 +201,14 @@ export default {
     },
     {
       referencia:
-        'Sastre, M., M. & Polo, H. (2014). Entorno e información de mercados.',
+        'Galicia, Luis Alberto. (2013). Entorno e información de mercados. Publicaciones de la Universitaria Jaume.',
       link:
-        'https://es.scribd.com/read/424097787/UF1779-Entorno-e-informacion-de-mercados',
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_vitalsource788498395228',
     },
     {
-      referencia: 'Zamarreño, G. (2020). Fundamentos de <i>marketing</>.',
-      link: 'https://es.scribd.com/read/476328868/Fundamentos-de-Marketing',
+      referencia: 'Monteferrer, D. (2020). Fundamentos de <i>marketing.</i>',
+      link:
+        'https://repositori.uji.es/xmlui/bitstream/handle/10234/49394/s74.pdf',
     },
   ],
   creditos: [
