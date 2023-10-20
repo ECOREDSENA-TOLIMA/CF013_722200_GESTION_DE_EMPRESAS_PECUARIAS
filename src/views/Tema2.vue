@@ -150,7 +150,7 @@
         .row
           .col-md-12.mb-4.mb-md-0
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 4
+              h5 Figura 7
               span #[em Cronograma]
         
           .col-md-12
@@ -161,7 +161,7 @@
           .col-md-12.mb-4.mb-md-0
             p El presupuesto asigna recursos a cada una de las actividades, de esta manera permite hacer un seguimiento mes a mes del recurso y porcentaje utilizado, así se pueden tomar decisiones de movilizar recursos o congelarlos para ciertas actividades que no estén funcionando.
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 5
+              h5 Tabla 4
               span #[em Presupuesto del marketing Punta de anca]
         
           .col-md-12
@@ -235,7 +235,7 @@
         .row
           .col-md-12.mb-4.mb-md-0
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 6
+              h5 Tabla 5
               span #[em Resumen del plan de marketing]
         
           .col-md-12
@@ -288,7 +288,7 @@
     p.mb-5(data-aos="fade-left") Por ejemplo, algunos indicadores que se pueden medir en la empresa la vaca lechera son los siguientes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 7
+      h5 Tabla 6
       span #[em Ejemplo KPI (indicadores de gestión o indicador de desempeño)]
 
     .col-md-12
@@ -317,7 +317,7 @@
 
     figure(data-aos="flip-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/nCUYv5oPwJY?si=ipzHOe2hySPiPZ0v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/YfJvHDuEKoQ?si=ccVDyf7CHKzC98E7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-tercero.color-acento-contenido.mt-5
       h3 2.4.2.	Informe de resultados.
