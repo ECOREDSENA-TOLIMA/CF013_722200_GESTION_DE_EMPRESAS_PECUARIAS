@@ -155,7 +155,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema2/7.svg', alt='En la tabla se observa un ejemplo de cronograma implementación plan de mercadeo empresa Punta de anca, en las columnas con mes 1 a mes 4 con 4 semanas por mes, y en las filas actividad, responsables.')
+              img(src='@/assets/curso/temas/tema2/7.svg', alt='En la figura se observa un ejemplo de cronograma implementación plan de mercadeo empresa Punta de anca, en las columnas con mes 1 a mes 4 con 4 semanas por mes, y en las filas actividad, responsables.')
 
         .row
           .col-md-12.mb-4.mb-md-0
